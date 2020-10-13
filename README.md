@@ -15,7 +15,7 @@ All files, totaling over 1 GB, can be found at <s>Filecloud</s> GameFront below:
 
    • <s>Art Assets - raw art assets (Maya)</s>
 
-   • <a href="https://www.gamefront.com/games/half-life-2/category/plan-of-attack">Full Development Copy</a> - raw maps and resources
+   • <a href="https://www.gamefront.com/games/half-life-2/file/plan-of-attack-source-code-and-development-copy">Full Development Copy</a> - raw maps and resources
 
 # Notes
 Only one modification was made to the code prior to release:
