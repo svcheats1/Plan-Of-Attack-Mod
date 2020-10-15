@@ -1,4 +1,8 @@
-﻿# Plan of Attack (Beta 4) Source Code
+<p align="center">
+  <img src="https://svcheats1.github.io/images/poa-logo.gif">
+</p>
+
+# Plan of Attack (Beta 4) Source Code
 ### April 15, 2006 -
 
 One year ago, Plan of Attack was released as the first total conversion Half-Life 2 Mod. Today, on our first birthday, we are releasing our entire source code back to the community. We do this as a way to thank our dedicated community and to give other MOD teams an invaluable learning resource to use when creating new games.
